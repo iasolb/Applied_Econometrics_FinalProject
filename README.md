@@ -9,7 +9,7 @@ Cassie Cinzori, Amir Sesay, Maya Gayle, Ian Solberg
 
 1. Open Terminal
 2.  *IF YOU DON'T HAVE HOMEBREW* Run: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
-3. Run: `brew install git`
+3. *IF YOU DON'T HAVE GIT* Run: `brew install git`
 4. Run: `clear`
 5. Navigate to where you want this folder to live on your computer [Short Video Tutorial on how to do this](https://youtu.be/V4ShSik25Wo)
 6. Click on the green "Code" button at this [link](https://github.com/iasolb/Applied_Econometrics_FinalProject)
