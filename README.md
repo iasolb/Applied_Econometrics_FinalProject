@@ -8,7 +8,7 @@ Cassie Cinzori, Amir Sesay, Maya Gayle, Ian Solberg
 ### TO GET THESE FILES ON YOUR COMPUTER 
 
 1. Open Terminal
-2. Run: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
+2.  *IF YOU DON'T HAVE HOMEBREW* Run: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
 3. Run: `brew install git`
 4. Run: `clear`
 5. Navigate to where you want this folder to live on your computer [Short Video Tutorial on how to do this](https://youtu.be/V4ShSik25Wo)
