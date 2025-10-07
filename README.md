@@ -16,3 +16,11 @@ Cassie Cinzori, Amir Sesay, Maya Gayle, Ian Solberg
 7. Copy the URL to your clipboard
 8. In terminal run: `git clone <url>`
 9. Check in Finder if your folder is there!
+
+### TO GET LATEST UPDATES UPDATES ONCE YOU HAVE THE REPOSITORY ON YOUR COMPUTER
+
+- Open Terminal
+- Navigate to Repository
+- run `git pull`
+
+  
