@@ -1,7 +1,7 @@
-,consumer_loans_banks,consumer_loans_credit_cards,deposits_banks,federal_funds_effective_rate,gas_all_grades_all_formulations,gas_all_grades_conventional,gas_all_grades_reformulated,gas_regular_all_formulations,gas_regular_conventional,gas_regular_reformulated,gas_midgrade_all_formulations,gas_midgrade_conventional,gas_midgrade_reformulated,gas_premium_all_formulations,gas_premium_conventional,gas_premium_reformulated,diesel_no2_retail,diesel_no2_ultra_low_sulfur,diesel_no2_low_sulfur,liabilities_and_capital,prime_loan_rate,unemployment_claims
-N_samples,1317.0,1317.0,1317.0,1318.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,1317.0,973.0,96.0,1318.0,1318.0,1317.0
-Mean,580.733,580.733,10019.05,1.914,2.7495,2.6727,2.905,2.6758,2.6081,2.8202,2.9125,2.812,3.0827,3.0929,3.0115,3.2125,2.9721,3.3731,3.3538,232.4896,5.0101,373482.1564
-Median,610.1398,610.1398,9268.6565,1.23,2.77,2.691,2.9,2.694,2.627,2.826,2.909,2.823,3.056,3.083,3.013,3.191,2.956,3.291,3.205,68.0665,4.25,324000.0
-Standard Deviation,260.923,260.923,4646.5224,1.9768,0.7805,0.7587,0.8276,0.7682,0.7517,0.8089,0.8453,0.8057,0.9044,0.8994,0.8605,0.9414,0.9673,0.7423,0.6692,350.8378,1.9563,350875.9846
-Minimum,210.8742,210.8742,3576.1407,0.04,1.101,1.082,1.133,1.059,1.042,1.088,1.154,1.13,1.192,1.249,1.229,1.279,1.14,1.98,2.379,3.745,3.25,189000.0
-Maximum,1081.5858,1081.5858,18398.4102,6.85,5.107,4.916,5.491,5.006,4.844,5.362,5.455,5.191,5.858,5.762,5.513,6.064,5.81,5.81,4.707,1816.687,9.5,6137000.0
+Variable,Unit,N,Mean,Std Dev,Min,Max
+Consumer Loans at Banks,$ Billions,1317,580.73,260.92,210.87,1081.59
+Total Deposits at Banks,$ Billions,1317,10019.05,4646.52,3576.14,18398.41
+Gasoline Price,$/Gallon,1317,2.68,0.77,1.06,5.01
+Gas Price Shock,% Deviation,1292,1.8,13.21,-50.3,46.33
+Unemployment Claims,Thousands,1317,373482.16,350875.98,189000.0,6137000.0
+Federal Funds Rate,Percentage,1318,1.91,1.98,0.04,6.85

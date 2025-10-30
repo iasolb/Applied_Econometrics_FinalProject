@@ -1,0 +1,9 @@
+,(1),(2),(3)
+Gas Price Shock,-2.2643***,-2.5922***,-2.5619***
+(% deviation from MA),(0.5348),(0.5484),(0.5431)
+,,,
+Basic Controls,No,Yes,Yes
+Additional Controls,No,No,Yes
+,,,
+Observations,"1,291","1,291","1,291"
+R²,0.0134,0.0222,0.0232
