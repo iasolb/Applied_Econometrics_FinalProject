@@ -1,4 +1,4 @@
-# Phase 3/4: Results Section
+# Phase 4/4: Results Section
 
 ## Team Members
 - Cassandra Cinzori
@@ -25,11 +25,6 @@ How do crude oil price shocks affect household saving and borrowing patterns in 
 - `final_weekly.csv` - Weekly data from June 2000 to September 2025 (located in `../final_data/`)
 
 ## Google Docs Link
-📄 **Full Results Section**: [Insert Your Google Docs Link Here]
+📄 **Full Results Section**:https://docs.google.com/document/d/1wGpGrgwRlggLHC4cGflaNvXKQD-layehBPh6f-f_JSU/edit?tab=t.0
 
-Example: https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit
 
-## How to Run the Analysis
-
-### Requirements
-```bash
